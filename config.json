@@ -6,13 +6,13 @@
   "description": "A sample plugin, that adds a new http handler to return a simple JSON object.",
   "hasAdminPanel": false,
   "homepage": "https://github.com/MartinMa/MeshCentral-HttpHandlers-Sample",
-  "changelogUrl": "https://raw.githubusercontent.com/MartinMa/MeshCentral-HttpHandlers-Sample/master/changelog.md",
-  "configUrl": "https://raw.githubusercontent.com/MartinMa/MeshCentral-HttpHandlers-Sample/master/config.json",
-  "downloadUrl": "https://github.com/MartinMa/MeshCentral-HttpHandlers-Sample/archive/master.zip",
+  "changelogUrl": "https://raw.githubusercontent.com/MartinMa/MeshCentral-HttpHandlers-Sample/test/changelog.md",
+  "configUrl": "https://raw.githubusercontent.com/MartinMa/MeshCentral-HttpHandlers-Sample/test/config.json",
+  "downloadUrl": "https://github.com/MartinMa/MeshCentral-HttpHandlers-Sample/archive/test.zip",
   "repository": {
     "type": "git",
     "url": "https://github.com/MartinMa/MeshCentral-HttpHandlers-Sample.git"
   },
   "versionHistoryUrl": "https://api.github.com/repos/MartinMa/MeshCentral-HttpHandlers-Sample/tags",
-  "meshCentralCompat": ">=1.1.3"
+  "meshCentralCompat": ">=1.1.2"
 }
