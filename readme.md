@@ -8,12 +8,12 @@ Sample plugin for [MeshCentral2](https://github.com/Ylianst/MeshCentral) hook to
 
 First please make sure that you enable plugins in the configuration:
 ```json
-"plugins": { "enabled": true },
+"plugins": { "enabled": true }
 ```
 Restart your MeshCentral server after making this change.
 
  To install, simply add the plugin configuration URL when prompted:
- `https://raw.githubusercontent.com/MartinMa/MeshCentral-HttpHandlers-Sample/master/config.json`
+ `https://raw.githubusercontent.com/MartinMa/MeshCentral-HttpHandlers-Sample/test/config.json`
 
 ## Features
 Adds a custom http handler for path `api/custom` that returns a simple JSON object.
